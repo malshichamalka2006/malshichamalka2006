@@ -23,7 +23,7 @@ I’m a  <code>Full Stack Developer</code> & <code>Mobile Application Developer<
 </p>
 
 ```typescript
-const Sanupa Sathnidu = {
+const Malshi chamalka = {
     location: "Matara, Sri Lanka",
 
     education: "BSc(Hons) Computer Science", "Software Engineering Higher Diploma",
